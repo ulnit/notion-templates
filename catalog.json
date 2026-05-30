@@ -1,0 +1,116 @@
+{
+  "ai-tool-directory": {
+    "name": "AI Tool Directory & Comparison Database",
+    "price": 9,
+    "description": "Track, compare, and rate AI tools. Database with 50+ pre-filled entries including ChatGPT, Claude, Midjourney, and emerging tools. Auto-calculates value scores.",
+    "pages": [
+      "Tools Database",
+      "Category Views",
+      "Comparison Matrix",
+      "Weekly Digest Template"
+    ],
+    "features": [
+      "50+ pre-filled AI tools",
+      "Auto-calculated value scores",
+      "Category filters",
+      "Weekly update template",
+      "Pricing comparison charts"
+    ]
+  },
+  "content-creator-hub": {
+    "name": "Content Creator Command Center",
+    "price": 12,
+    "description": "All-in-one content management system. Editorial calendar, idea bank, SEO tracker, and publishing pipeline. Built for solo creators managing 3+ platforms.",
+    "pages": [
+      "Editorial Calendar",
+      "Idea Bank",
+      "Content Pipeline (Kanban)",
+      "SEO Keywords Tracker",
+      "Platform Analytics"
+    ],
+    "features": [
+      "Drag-and-drop editorial calendar",
+      "Kanban pipeline (Idea → Draft → Review → Published)",
+      "SEO keyword difficulty scoring",
+      "Multi-platform publishing tracker"
+    ]
+  },
+  "habit-tracker-pro": {
+    "name": "Habit Tracker Pro — Year in Pixels",
+    "price": 5,
+    "description": "Beautiful year-in-pixels habit tracker with 12 habits, mood tracking, and progress visualization. Dark mode optimized.",
+    "pages": [
+      "Year Overview",
+      "Monthly View",
+      "Habit Detail",
+      "Mood Tracker",
+      "Statistics"
+    ],
+    "features": [
+      "12 customizable habits",
+      "Year-in-pixels heatmap",
+      "Mood correlation analysis",
+      "Streak counter",
+      "Weekly/Monthly/Yearly views"
+    ]
+  },
+  "project-management-os": {
+    "name": "Project Management OS",
+    "price": 15,
+    "description": "Complete project management system for indie developers. Tasks, milestones, client tracking, invoices, and time tracking — all connected.",
+    "pages": [
+      "Dashboard",
+      "Projects Database",
+      "Tasks (Kanban + List)",
+      "Milestones Timeline",
+      "Clients CRM",
+      "Invoices",
+      "Time Tracking"
+    ],
+    "features": [
+      "Multi-project dashboard",
+      "Kanban + list views",
+      "Client portal with invoice generation",
+      "Time tracking with billable hours",
+      "Milestone Gantt-style timeline"
+    ]
+  },
+  "freelancer-finance": {
+    "name": "Freelancer Finance Tracker",
+    "price": 8,
+    "description": "Income, expenses, tax estimation, and client profitability analysis. Built for freelancers and indie hackers who need to know their numbers.",
+    "pages": [
+      "Income Tracker",
+      "Expense Log",
+      "Tax Estimator",
+      "Client Profitability",
+      "Monthly Reports"
+    ],
+    "features": [
+      "Auto-calculated tax estimates",
+      "Client profitability scoring",
+      "Recurring vs one-time income split",
+      "Expense categorization",
+      "Monthly P&L statements"
+    ]
+  },
+  "ai-learning-path": {
+    "name": "AI/ML Learning Path Tracker",
+    "price": 7,
+    "description": "Structured learning path for AI/ML with 200+ curated resources, progress tracking, and project milestones. From beginner to production-ready.",
+    "pages": [
+      "Learning Roadmap",
+      "Resource Library (200+)",
+      "Skill Tree",
+      "Project Portfolio",
+      "Job Prep Checklist"
+    ],
+    "features": [
+      "200+ curated resources with ratings",
+      "Skill tree with progress %",
+      "Project milestone tracker",
+      "Interview prep checklist",
+      "Course cost vs value calculator"
+    ]
+  }
+}
