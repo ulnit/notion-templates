@@ -43,4 +43,4 @@ Our AI agent analyzes 1000+ top-performing Notion templates, extracts what works
 | [📝 Resume Optimizer](https://github.com/ulnit/ai-resume-optimizer) | ATS-friendly resume enhancement | $5-15 |
 | [🤖 CS Bot](https://github.com/ulnit/ai-cs-bot) | White-label customer service chatbot | $19-49/mo |
 
-> 🏪 [View All 19 Products →](https://ulnit.github.io/agent-store)
+> 🏪 [View All 23 Products →](https://ulnit.github.io/agent-store)
